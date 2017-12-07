@@ -1,0 +1,400 @@
+﻿{
+  "DontJoinServers": true,
+  "ForwardMessages": true,
+  "ForwardToAllOwners": false,
+  "IsRotatingStatus": true,
+  "BufferSize": 4194304,
+  "RaceAnimals": [
+    "🐼",
+    "🐻",
+    "🐧",
+    "🐨",
+    "🐬",
+    "🐞",
+    "🦀",
+    "🦄"
+  ],
+  "RemindMessageFormat": "❗⏰**I've been told to remind you to '%message%' now by %user%.**⏰❗",
+  "CustomReactions": {
+    "\\o\\": [
+      "/o/"
+    ],
+    "/o/": [
+      "\\o\\"
+    ],
+	"(╯°□°）╯︵ ┻━┻": [
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ) \n http://imgur.com/4Y3GBBv.jpg",
+	],
+	"(╯°□°）╯︵ ┻━━┻": [
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ) \n http://imgur.com/4Y3GBBv.jpg",
+	],
+	"(╯°□°）╯ ︵  ┻━┻": [
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ)",
+	"┬─┬﻿ ノ( ゜-゜ノ) \n http://imgur.com/4Y3GBBv.jpg",
+	],
+    "moveto": [
+      "(👉 ͡° ͜ʖ ͡°)👉 %target%"
+    ],
+    "comeatmebro": [
+      "%target% (ง’̀-‘́)ง"
+    ],
+    "kys": [
+      "%user% did it 😒 🔫",
+      "%target% did it 😒 🔫"
+    ],
+    "%mention% insult": [
+      "%target% You are a poop.",
+      "%target% You're a jerk.",
+      "%target% I will eat you when I get my powers back."
+    ],
+    "%mention% praise": [
+      "%target% You are cool.",
+      "%target% You are nice!",
+      "%target% You did a good job.",
+      "%target% You did something nice.",
+      "%target% is awesome!",
+      "%target% Wow."
+    ],
+    "%mention% pat": [
+      "http://i.imgur.com/IiQwK12.gif",
+      "http://i.imgur.com/JCXj8yD.gif",
+      "http://i.imgur.com/qqBl2bm.gif",
+      "http://i.imgur.com/eOJlnwP.gif",
+      "https://45.media.tumblr.com/229ec0458891c4dcd847545c81e760a5/tumblr_mpfy232F4j1rxrpjzo1_r2_500.gif",
+      "https://media.giphy.com/media/KZQlfylo73AMU/giphy.gif",
+      "https://media.giphy.com/media/12hvLuZ7uzvCvK/giphy.gif",
+      "http://gallery1.anivide.com/_full/65030_1382582341.gif",
+      "https://49.media.tumblr.com/8e8a099c4eba22abd3ec0f70fd087cce/tumblr_nxovj9oY861ur1mffo1_500.gif",
+	  "https://cdn.discordapp.com/attachments/270187471294169088/270661642285613057/pet_pet.gif",
+	  "https://cdn.discordapp.com/attachments/270187471294169088/270661616515678208/pet_pet_2.gif"
+    ],
+    "%mention% cry": [
+      "http://vignette1.wikia.nocookie.net/rwby/images/d/d0/Ruby_Crying_2.gif",
+      "http://i1.kym-cdn.com/photos/images/original/001/062/050/f0b.png",
+      "http://vignette2.wikia.nocookie.net/rwby/images/0/06/Weiss_Crying.gif",
+      "http://68.media.tumblr.com/15974269c68ff89e8de62ff3bfee0668/tumblr_o0pp4eYlkr1tbb76go2_400.gif"
+    ],
+    "%mention% are you real?": [
+      "%user%, I'm not a real girl.",
+      "%user%, Most girls are born, but I was made. I'm the world's first synthetic person capable of generating an Aura! I'm not real.."
+    ],
+    "%mention% are you there?": [
+      "http://i.imgur.com/pzracvZ.png",
+	  "https://pbs.twimg.com/media/C-8HJoNWAAAFYVM.jpg"
+    ],
+	"Hello %mention%": [
+	  "https://pbs.twimg.com/media/C-8HJoNWAAAFYVM.jpg"
+    ],
+    "%mention% draw": [
+      "Sorry, I don't gamble, type $draw for that function."
+    ],
+    "%mention% bb": [
+      "Bye %target%"
+    ],
+    "%mention% call": [
+      "Calling %target%"
+    ],
+    "%mention% Hug": [
+      "GLOMPS %target% http://imgur.com/J5xqsjg.gif",
+      "GLOMPS %target% http://imgur.com/D0UiWOj.gif"
+    ],
+    "%mention% glomp": [
+      "GLOMPS %target% http://imgur.com/J5xqsjg.gif",
+      "GLOMPS %target% http://imgur.com/D0UiWOj.gif"
+    ],
+    "%mention% disguise": [
+      "http://i3.kym-cdn.com/photos/images/facebook/000/657/740/1e1.png",
+      "http://i3.kym-cdn.com/photos/images/newsfeed/000/657/741/c8c.png",
+      "http://media.tumblr.com/6ea68544accc4a19c4216e6a59973a26/tumblr_inline_msoosgwy5I1qz4rgp.png"
+    ],
+    "%mention% threaten": [
+      "You wanna die, %target%?"
+    ],
+    "RIP Neptune": [
+      "<:cNeptune:240110404338974720> He slipped on a puddle.",
+      "<:cNeptune:240110404338974720> He was crushed by a fish tank.",
+      "<:cNeptune:240110404338974720> He was eaten by a Kraken.",
+      "<:cNeptune:240110404338974720> He drowned in the bathtub.",
+      "<:cNeptune:240110404338974720> He choked drinking water."
+    ],
+    "Boops %mention%": [
+      "*Boops* %user% <:cNora:231813474190098432>"
+    ],
+    "%mention% Boop": [
+      "*Boops* %target% <:cNora:231813474190098432>"
+    ],
+    "%mention% Volume 4 episodes": [
+      "SPOILER WARNING: Here is a link to all the Volume 4 Episodes https://goo.gl/SbqVSr"
+    ],
+    "%mention% Later friend": [
+      "%user% You called me friend! Am I really your friend?"
+    ],
+    "%mention% Does she know about... y'know... beep boop bop, does not compute?": [
+      "%user% Oh no. General Ironwood doesn't really want anyone to know.\nThere was an incident with a magnet, but I was able to play it off."
+    ],
+    "%mention% secrets": [
+      "No cheating",
+      "frstyBaka"
+    ],
+    "%mention% irondaddy": [
+      "Choke me harder Irondaddy."
+    ],
+    "Daily Husbando": [
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/CzPxAC7UcAEV7U8.jpg",
+	  "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/C58naRqUYAALmgc.jpg",
+	  "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/C58naRqUYAALmgc.jpg",
+	  "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/C58naRqUYAALmgc.jpg",
+	  "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/C58naRqUYAALmgc.jpg",
+	  "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/C58naRqUYAALmgc.jpg",
+	  "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/C58naRqUYAALmgc.jpg",
+	  "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/C58naRqUYAALmgc.jpg",
+      "There is only one true husbando \n **Shopkeeper-chan**\n https://pbs.twimg.com/media/C58naRqUYAALmgc.jpg",
+      "Whats this? you found a secret **Zwei** husbando\n http://imgur.com/ciQzZIz.jpg"
+    ],
+    //"%mention% Valentine": [
+    //  "**To:** %target%\n**From:** %user%\n http://i.imgur.com/Ix4O7kN.jpg",
+    //  "**To:** %target%\n**From:** %user%\n http://i.imgur.com/LnMXPoS.jpg",
+    //  "**To:** %target%\n**From:** %user%\n http://i.imgur.com/4yWFKec.jpg",
+    //  "**To:** %target%\n**From:** %user%\n http://i.imgur.com/rUAtPBw.jpg",
+    //  "**To:** %target%\n**From:** %user%\n http://i.imgur.com/x1BdL14.jpg",
+    //  "**To:** %target%\n**From:** %user%\n http://i.imgur.com/tZ0roLw.jpg",
+    //  "**To:** %target%\n**From:** %user%\n http://imgur.com/zmDRMg1.jpg",
+    //  "**To:** %target%\n**From:** %user%\n http://imgur.com/q0vrgTV.jpg",
+    //  "**To:** %target%\n**From:** %user%\n http://imgur.com/SiAPITY.jpg",
+    //  "**To:** %target%\n**From:** %user%\n http://imgur.com/M3njAFb.jpg",
+    //  "**To:** %target%\n**From:** %user%\n http://imgur.com/tzkEK3M.jpg",
+    //  "**To:** %target%\n**From:** %user%\n http://imgur.com/qefMTSp.jpg"
+    //],
+	"PocketPenny": [
+	 "http://imgur.com/x4OS4L2.gif",
+	 "http://imgur.com/9kDpraC.gif",
+	 "http://imgur.com/lEhZw5T.gif",
+	 "http://imgur.com/1viAsvg.gif",
+	 "http://imgur.com/Vt4fn4l.gif",
+	 "http://imgur.com/95NUFNH.gif",
+	 "http://imgur.com/VD22iyM.gif",
+	 "http://imgur.com/KF0CjJ0.gif",
+	 "http://imgur.com/6c4wkkL.gif",
+	 "http://imgur.com/ccxCb5k.gif"
+	],
+	"Pocket Penny": [
+	 "http://imgur.com/x4OS4L2.gif",
+	 "http://imgur.com/9kDpraC.gif",
+	 "http://imgur.com/lEhZw5T.gif",
+	 "http://imgur.com/1viAsvg.gif",
+	 "http://imgur.com/Vt4fn4l.gif",
+	 "http://imgur.com/95NUFNH.gif",
+	 "http://imgur.com/VD22iyM.gif",
+	 "http://imgur.com/KF0CjJ0.gif",
+	 "http://imgur.com/6c4wkkL.gif",
+	 "http://imgur.com/ccxCb5k.gif"
+	],
+	"Daily Weissfu": [
+	  "%user%, Your daily waifu is Weiss Schnee http://imgur.com/oHS5ssL.jpg",
+	  "%user%, Your daily waifu is Weiss Schnee https://pbs.twimg.com/media/CSaATT1VEAAzyht.png",
+	  "%user%, Your daily waifu is Weiss Schnee https://pbs.twimg.com/media/CH-HPCCVEAAOrbk.png",
+	  "%user%, Your daily waifu is Weiss Schnee https://pbs.twimg.com/media/CE0tcVwUkAApNf0.png",
+	  "%user%, Your daily waifu is Weiss Schnee https://pbs.twimg.com/media/CHC-raMUAAELWpl.png",
+	  "%user%, Your daily waifu is Weiss Schnee https://pbs.twimg.com/media/CHu27rfUcAAZcXA.png",
+	  "%user%, Your daily waifu is Weiss Schnee https://pbs.twimg.com/media/C1XNG1eVIAAu1_c.jpg",
+	  "%user%, Your daily waifu is Weiss Schnee http://imgur.com/iPfZAQ8.jpg",
+	  "%user%, Your daily waifu is Weiss Schnee https://pbs.twimg.com/media/C6GDP9uUoAAPyzU.jpg",
+	  "%user%, Your daily waifu is Weiss Schnee https://pbs.twimg.com/media/C69ooHWVoAEgj-R.jpg",
+	  ],
+	  //Random Mojojoj Pictures
+	  "Random Mojojoj": [
+	  "https://pbs.twimg.com/media/C7W3LeTU0AQcsHF.png",
+	  "https://pbs.twimg.com/media/C6f8G5-U0AAUPQO.jpg",
+	  "https://pbs.twimg.com/media/C40RscVVcAEhNnB.jpg",
+	  "https://pbs.twimg.com/media/C4zqXr3VYAARYsr.jpg",
+	  "https://pbs.twimg.com/media/C4auiykVYAAeMkA.jpg",
+	  "https://pbs.twimg.com/media/C4GGusHVcAE02-Y.jpg",
+	  "https://pbs.twimg.com/media/C1xkAugUkAAr9xK.jpg",
+	  "https://pbs.twimg.com/media/C03Zo9jUcAQTM96.jpg",
+	  "https://pbs.twimg.com/media/Cz-_PaaVIAAwG0d.jpg",
+	  "https://pbs.twimg.com/media/Czra-grVEAA3u7_.jpg",
+	  "https://pbs.twimg.com/media/Cv7vb-xUAAAAx0I.jpg",
+	  "https://pbs.twimg.com/media/Cq03peYUsAAA8PA.jpg",
+	  "https://pbs.twimg.com/media/Cq-KV-3WcAA_cWs.jpg",
+	  "https://pbs.twimg.com/media/CqjZYCNUEAAH14C.jpg",
+	  "https://pbs.twimg.com/media/CqE-ozzVYAAlW64.jpg",
+	  "https://pbs.twimg.com/media/Cpw3OxXUEAA0oll.jpg",
+	  "https://pbs.twimg.com/media/CpmdPc4VMAADcSR.jpg",
+	  "https://pbs.twimg.com/media/CpSQoVtUkAAHR9O.jpg",
+	  "https://pbs.twimg.com/media/CmFcgoNUgAAykKU.jpg",
+	  "https://pbs.twimg.com/media/ClJM3nQVEAAshD6.jpg",
+	  "https://pbs.twimg.com/media/CkhgYmNUgAAblHc.jpg",
+	  "https://pbs.twimg.com/media/Cj0sJ6-UUAAQ0xz.jpg",
+	  "https://pbs.twimg.com/media/CjAv0hlUoAAeH5S.jpg",
+	  "https://pbs.twimg.com/media/CiNbcSOUkAAh2Tq.jpg",
+	  "https://pbs.twimg.com/media/Ch5QwpkUgAAFhKP.jpg",
+	  "https://pbs.twimg.com/media/ChtMbG-VAAAqku6.jpg",
+	  "https://pbs.twimg.com/media/ChG025gU8AAEhL8.jpg",
+	  "https://pbs.twimg.com/media/CgSA3k8UkAAWVpN.jpg",
+	  "https://pbs.twimg.com/media/CgM3-FKUYAA3kI3.jpg",
+	  "https://pbs.twimg.com/media/CfoDTJNVAAEdYMt.jpg",
+	  "https://pbs.twimg.com/media/CfnvgbOUIAALQAO.jpg",
+	  "https://pbs.twimg.com/media/CfJlucvVIAAnwCd.jpg",
+	  "https://pbs.twimg.com/media/CfD3NvRUUAAIZLN.jpg",
+	  "https://pbs.twimg.com/media/Ceqrb1_XEAEQQR-.jpg",
+	  "https://pbs.twimg.com/media/Cele1brW8AMol5E.jpg",
+	  "https://pbs.twimg.com/media/CefkovIW8AA04xU.jpg",
+	  "https://pbs.twimg.com/media/Cdxf2K-UYAAdtu7.jpg",
+	  "https://pbs.twimg.com/media/Cdh9wgAUYAAvtws.jpg",
+	  "https://pbs.twimg.com/media/CckuKUrVAAI0Bie.jpg",
+	  "https://pbs.twimg.com/media/Ccd5CTNVAAAxunA.jpg",
+	  "https://pbs.twimg.com/media/CcPqVJuUcAAWjqg.jpg",
+	  "https://pbs.twimg.com/media/CUlLtbRUsAAvO2U.png",
+	  "https://pbs.twimg.com/media/CULDTsZUwAIA9yI.png",
+	  "https://pbs.twimg.com/media/CUCNWZwUsAEINhl.png",
+	  "https://pbs.twimg.com/media/CTJmpznUEAA5QtM.png",
+	  "https://pbs.twimg.com/media/CcBVtqYUAAA0raG.jpg",
+	  "https://pbs.twimg.com/media/CbxVY64UMAA0Wlc.jpg",
+	  "https://pbs.twimg.com/media/CbrPO2MUYAEqJQX.jpg",
+	  "https://pbs.twimg.com/media/CbR_2GBUUAAKzqM.jpg",
+	  "https://pbs.twimg.com/media/CbGy3ftVAAEondZ.jpg",
+	  "https://pbs.twimg.com/media/Ca8_UrSUkAA5x6T.jpg",
+	  "https://pbs.twimg.com/media/Ca2H1zWW4AE2NfM.jpg",
+	  "https://pbs.twimg.com/media/CaoAhxEUcAAVkRx.jpg",
+	  "https://pbs.twimg.com/media/CaZaHCXUAAESGKA.jpg",
+	  "https://pbs.twimg.com/media/CaTcDIlUYAAmdGH.jpg",
+	  "https://pbs.twimg.com/media/CaEMvUVUkAA9Gej.jpg",
+	  "https://pbs.twimg.com/media/CaDmU6iUUAA1cEE.jpg",
+	  "https://pbs.twimg.com/media/CZ6MsqJUYAAgxmx.jpg",
+	  "https://pbs.twimg.com/media/CZgx1L3UYAABrCQ.jpg",
+	  "https://pbs.twimg.com/media/CZUfowPUAAAA9FD.jpg",
+	  "https://pbs.twimg.com/media/CZMUCpJUMAEGJ6O.jpg",
+	  "https://pbs.twimg.com/media/CY2xn-xUMAESWkJ.png",
+	  "https://pbs.twimg.com/media/CYMLleIVAAAgYIf.png",
+	  "https://pbs.twimg.com/media/CX17mQfUkAAtv73.png",
+	  "https://pbs.twimg.com/media/CXwKePnVAAAqh5U.png",
+	  "https://pbs.twimg.com/media/CXkPS_cUwAAL-0m.png",
+	  "https://pbs.twimg.com/media/CWms2XvUYAAesif.png",
+	  "https://pbs.twimg.com/media/CWLs62aU4AAMHQq.png",
+	  "https://pbs.twimg.com/media/CV_WDyeUYAAHLpj.jpg",
+	  "https://pbs.twimg.com/media/CV5P8sHWwAI3lcw.png",
+	  "https://pbs.twimg.com/media/CVx7kwrUwAEl6Cd.png",
+	  "https://pbs.twimg.com/media/CVnX5E9UAAAzBB3.png",
+	  "https://pbs.twimg.com/media/CVcaGgGUYAAxJgI.png",
+	  "https://pbs.twimg.com/media/CVGVZonU4AAamA_.png",
+	  "https://pbs.twimg.com/media/CVF39hXUwAAd1dT.png",
+	  "https://pbs.twimg.com/media/CVBKliZVEAAZfZu.png",
+	  "https://pbs.twimg.com/media/CUr_PBnUkAATmMs.png",
+	  "https://pbs.twimg.com/media/C8WK4w4V0AE6qlQ.jpg"
+	  ],
+
+	  "kill me": [
+"Dont die, I will miss you! \r\n http://68.media.tumblr.com/c5311f02e94075fcb225534370a33c2a/tumblr_o62wi4LOL31v66ox3o1_1280.png"
+	  ],
+	  "AHK": [
+"Stop saying that! \r\n http://imgur.com/4Y3GBBv.jpg"
+	  ],
+	  "lewd": [
+"Stop saying that! \r\n http://imgur.com/4Y3GBBv.jpg"
+	  ],
+	  "sacrifice": [
+"No more of that \r\n http://imgur.com/4Y3GBBv.jpg"
+	  ],
+	  "sacrifice!": [
+"No more of that \r\n http://imgur.com/4Y3GBBv.jpg"
+	  ],
+	  "fresh meat": [
+"No more of that \r\n http://imgur.com/4Y3GBBv.jpg"
+	  ],
+	"^copy pasta": [
+"Rawr x3 nuzzles how are you pounces on you you're so warm o3o notices you have a bulge o: someone's happy nuzzles your necky wecky~ murr~ hehehe rubbies your bulgy wolgy you're so big oooo rubbies more on your bulgy wolgy it doesn't stop growing kisses you and lickies your necky daddy likies (; nuzzles wuzzles I hope daddy really likes $: wiggles butt and squirms I want to see your big daddy meat~ wiggles butt I have a little itch o3o wags tail can you please get my itch~ puts paws on your chest nyea~ its a seven inch itch rubs your chest can you help me pwease squirms pwetty pwease sad face I need to be punished runs paws down your chest and bites lip like I need to be punished really good~ paws on your bulge as I lick my lips I'm getting thirsty. I can go for some milk unbuttons your pants as my eyes glow you smell so musky :v licks shaft mmmm~ so musky drools all over your cock your daddy meat I like fondles Mr. Fuzzy Balls hehe puts snout on balls and inhales deeply oh god im so hard~ licks balls punish me daddy~ nyea~ squirms more and wiggles butt I love your musky goodness bites lip please punish me licks lips nyea~ suckles on your tip so good licks pre of your cock salty goodness~ eyes rol back and goes balls deep mmmm~ moans and suckles
+Ok"
+	],
+},
+  "CommandPrefixes": {
+    "Administration": ".",
+    "Searches": "~",
+    "NSFW": "~",
+    "Conversations": "<@{0}>",
+    "ClashOfClans": ",",
+    "Help": "-",
+    "Music": "!",
+    "Trello": "trello ",
+    "Games": ">",
+    "Gambling": "$",
+    "Permissions": ";",
+    "Programming": "%",
+    "Pokemon": ">",
+    "Utility": "."
+  },
+  "ServerBlacklist": [
+    218481758784585728
+  ],
+  "ChannelBlacklist": [],
+  "UserBlacklist": [
+    105309315895693312,
+    119174277298782216,
+    143515953525817344,
+	292828824041684993
+  ],
+  "_8BallResponses": [
+    "Most definitely yes",
+    "Try asking Port",
+    "As I see it, yes",
+    "Ozpin say yes",
+    "Yes",
+    "Most likely",
+    "Perhaps",
+    "Maybe",
+    "Not sure",
+    "Ask me again later",
+    "Don't count on it",
+    "Even Blake's books don't have the answer",
+    "Ruby says nope",
+    "No",
+    "My sources say no",
+    "Dont even think about it",
+    "Definitely no",
+    "NO - It may summon Grimm",
+    "Salem demands it",
+    "Glynda forbids it",
+    "Try asking pyrrha... oh wait",
+    "Just don't end up like me",
+    "Don't ask me, I'm just a robot"
+  ],
+  "CurrencySign": "<:cPenny:232871802349551616>",
+  "CurrencyName": "Penny",
+  "DMHelpString": "Type `-h` for help.",
+  "HelpString": "You can use `{0}modules` command to see a list of all modules.\r\nYou can use `{0}commands ModuleName`\r\n(for example `{0}commands Music`) to see a list of all of the commands in that module.\r\nFor a specific command help, use `{0}h \"Command name\"` (for example `-h \"!m q\"`)\r\n\r\n\r\n**LIST OF COMMANDS CAN BE FOUND ON THIS LINK**\r\n<https://goo.gl/Gqh7vN>"
+}
